@@ -96,3 +96,8 @@ The language can be changed in runtime by setting the `lang` XSLT parameter when
 ---
 
 ![CEF - Connecting Europe Facility](docs/en_cef_300x42.png)
+
+## Technical debt links
+
+[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu//dashboard?id=clearfacts%3Aunimaze-peppol-stylesheets)
